@@ -1,0 +1,58 @@
+body {
+  font-family: 'Lexend Deca', sans-serif;
+  /* width: 1440px; */
+}
+
+h1 {
+  font-family: 'Big Shoulders Display', cursive;
+  color: hsl(0, 0%, 95%);
+  padding-bottom: 1rem;
+}
+
+#carBox {
+  font-size: 15px;
+}
+
+.container {
+  max-width: 924px;
+  min-width: 277px;
+  margin-top: 10rem;
+}
+
+.deckDsiplay {
+  color: hsla(0, 0%, 100%, 0.75);
+}
+
+.deck {
+  padding: 3rem;
+}
+
+.carbox-1 {
+  background-color: hsl(31, 77%, 52%);
+
+}
+
+.carbox-2 {
+  background-color: hsl(184, 100%, 22%);
+
+}
+
+.carbox-3 {
+  background-color: hsl(179, 100%, 13%);
+  
+}
+
+.button-1 {
+  padding: 0.7rem 2rem;
+  color: hsl(31, 77%, 52%);
+}
+
+.button-2 {
+  padding: 0.7rem 2rem;
+  color: hsl(184, 100%, 22%);
+}
+
+.button-3 {
+  padding: 0.7rem 2rem;
+  color: hsl(179, 100%, 13%);
+}
